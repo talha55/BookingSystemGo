@@ -13,5 +13,4 @@ func main (){
 	customerName = "Talha Muneer"
 	selectedSlots = 4
 	fmt.Printf("Hi %v,\nYou've selected %v Slots.\n", customerName, selectedSlots)
-
 }
